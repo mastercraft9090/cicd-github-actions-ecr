@@ -4,4 +4,4 @@ services:
     image: 573606317516.dkr.ecr.us-east-1.amazonaws.com/nodejs_project:latest
     container_name: nodejs_app
     ports:
-      - "8000:8000"
+      - "8080:8080"
